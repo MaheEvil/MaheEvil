@@ -1,5 +1,5 @@
 - Hi, I’m @MaheEvil aka Maheesha
-- I’m interested in Java/C#/Kotlin and Minecraft modding
+- I’m interested in Java/C#/Kotlin/Rust and Minecraft modding
 - I’m currently learning Minecraft Modding/Kotlin and trying to master java
 - The best way to reach me would be discord (Maheesha#3825)
 - Thanks for reading this
