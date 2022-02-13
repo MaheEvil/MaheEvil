@@ -1,8 +1,12 @@
 - Hi, I’m @MaheEvil aka Maheesha
-- I’m interested in Java/C#/Kotlin/Rust and Minecraft modding
-- I’m currently learning Minecraft Modding/Kotlin and trying to master Java
+- I’m interested in.... listening to music
+- I’m currently learning Kotlin and Python
 - The best way to reach me would be discord (Maheesha#3825)
-- Thanks for reading this
+- Thanks for reading this   
+
+- Languages I know
+  - Java
+  - Kotlin
 
 [![MaheEvil's github stats](https://github-readme-stats-omega-ashen.vercel.app/api?username=MaheEvil&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
