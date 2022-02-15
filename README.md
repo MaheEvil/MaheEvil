@@ -1,12 +1,9 @@
 - Hi, I’m @MaheEvil aka Maheesha
 - I’m interested in.... listening to music
 - I’m currently learning Kotlin and Python
+- Somewhat proficient in java ~~or atleast I like to think I am~~ 
 - The best way to reach me would be discord (Maheesha#3825)
 - Thanks for reading this   
-
-- Languages I know
-  - Java
-  - Kotlin
 
 [![MaheEvil's github stats](https://github-readme-stats-omega-ashen.vercel.app/api?username=MaheEvil&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
