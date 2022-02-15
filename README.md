@@ -1,13 +1,11 @@
-<div align="center">
+# Hey there!
 
-Hi, I’m @MaheEvil aka Maheesha   
-I’m interested in.... listening to music   
-I’m currently learning Kotlin and Python   
-Somewhat proficient in java ~~or atleast I like to think I am~~   
-The best way to reach me would be discord (Maheesha#3825)   
-Thanks for reading this   
-
-</div>
+- Hi, I’m @MaheEvil aka Maheesha   
+- I’m interested in.... listening to music   
+- I’m currently learning Kotlin and Python   
+- Somewhat proficient in java ~~or atleast I like to think I am~~   
+- The best way to reach me would be discord (Maheesha#3825)   
+- Thanks for reading this   
   
 <div align="center">
 
