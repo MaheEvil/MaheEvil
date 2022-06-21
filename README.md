@@ -2,8 +2,9 @@
 
 - Hi, I’m @MaheEvil aka Maheesha   
 - I’m interested in.... listening to music   
-- I’m currently learning Kotlin and Python   
-- Somewhat proficient in java ~~or atleast I like to think I am~~   
+- I’m currently learning F#   
+- Somewhat proficient in Java and Kotlin
+- Enjoys reflection hacks and sweet talking the java compiler  
 - The best way to reach me would be discord (Maheesha#3825)   
 - Thanks for reading this   
   
