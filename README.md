@@ -5,7 +5,7 @@
 - I’m currently learning F#   
 - Somewhat proficient in Java and Kotlin
 - Enjoys reflection hacks and sweet talking the java compiler  
-- The best way to reach me would be discord (Maheesha#3825) (![Discord Server](https://discord.gg/VG75NbZBe7))   
+- The best way to reach me would be discord (Maheesha#3825) ([Discord Server](https://discord.gg/VG75NbZBe7))   
 - Thanks for reading this   
   
 <div align="center">
